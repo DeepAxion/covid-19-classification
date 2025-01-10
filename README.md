@@ -34,7 +34,7 @@ pip install -r requirements.txt
 The dataset used in this project is the COVID 19 Radiography Dataset comprising of chest X-ray images, including both COVID-19 positive and negative cases. 
 
 <center>
-    <img src="Images/input.png" width=1000 height=700>
+    <img src="Images/input.png" width=800 height=700>
 </center>
 
 ## Model Performance
@@ -51,12 +51,12 @@ Another thing we will define is the metrics to evaluate our model. We will not u
 
    2. Confusion matrix
 <center>
-<img src="Images/confusion_matrix.png" width=700 height=500>
+<img src="Images/confusion_matrix.png" width=500 height=500>
 </center>
 
    3. ROC CURVE
 <center>
-<img src="Images/roc_curve.png" width=700 height=500>
+<img src="Images/roc_curve.png" width=500 height=500>
 </center>
 
 ## Results
