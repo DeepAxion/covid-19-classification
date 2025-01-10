@@ -34,7 +34,7 @@ pip install -r requirements.txt
 The dataset used in this project is the COVID 19 Radiography Dataset comprising of chest X-ray images, including both COVID-19 positive and negative cases. 
 
 <center>
-    <img src="Images/input.png" width=1000 height=500>
+    <img src="Images/input.png" width=1000 height=700>
 </center>
 
 ## Model Performance
